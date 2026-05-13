@@ -1,0 +1,13 @@
+{
+    "name": "cliff-qa-tiny",
+    "version": "0.1.0",
+    "description": "Tiny QA repo for Cliff QA-0001 (Q06 onboarding cold-start). Intentionally vulnerable.",
+    "private": true,
+    "dependencies": {
+          "lodash": "4.17.20",
+          "express": "4.17.1",
+          "axios": "0.21.0",
+          "minimist": "1.2.5",
+          "chalk": "4.1.0"
+    }
+}
